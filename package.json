@@ -1,0 +1,26 @@
+{
+  "name": "dashboardtwit",
+  "version": "1.0.0",
+  "description": "Twitter Dashboard",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "log-timestamp": "^0.3.0",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit2809/dashboardtwit.git"
+  },
+  "author": "Ankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankit2809/dashboardtwit/issues"
+  },
+  "homepage": "https://github.com/ankit2809/dashboardtwit#readme"
+}
